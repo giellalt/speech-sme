@@ -13,9 +13,7 @@ Both HFST and VISLCG3 provides runtime C or C+ libraries. No scripted languages 
 
 The basic architecture of the preprocessing can be illustrated with the following picture:
 
-
-[Preprocessing architecture](img/PreprocArch.png)
-
+![Preprocessing architecture](img/PreprocArch.png)
 
 # Modifications compared to our regular development environment
 
