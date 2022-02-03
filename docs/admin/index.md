@@ -1,5 +1,3 @@
-Add administration documentation here.
-
 Meetings
 ========
 
@@ -27,3 +25,10 @@ Meetings
 -   [Meeting 2009.08.17](meeting-2009-08-17.html)
 -   [Meeting 2008.12.05](meeting-2008-12-05.html)
 -   [Meeting 2008.08.22](meeting-2008-08-22.html)
+
+[Plan for fall of 2009](plan-autumn-09.md)
+
+# Public tender
+
+- [Requirements and specifications](admin/public_tender/RequirementsAndSpecifications.md)
+- [Kravspek (rtf)](KravspekforTTS-utlysing.rtf)

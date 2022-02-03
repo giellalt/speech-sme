@@ -68,25 +68,25 @@ The contractor should deliver all parts including installation packages such tha
 The Divvun TTS project is asking for a bid for the making and the integration of North Saami synthetic voices and a full text-to-speech system for Microsoft Windows, based on the existing computational linguistic resources.
 
 The exact list of deliverables for MS Windows is:
-#	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MS Windows XP SP2 and newer.
-#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
-##	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
-##	The instalation package shall be prepared for the addition of North Sámi as an additional language of the installer
+1.	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MS Windows XP SP2 and newer.
+1.	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
+    1.	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
+    1.	The instalation package shall be prepared for the addition of North Sámi as an additional language of the installer
     1.  The installer package shall be built using NSIS installer
-#	user documentation in English, Norwegian bokmål, Swedish and Finnish.
-#	user documentation prepared for translation into North Saami
+1.	user documentation in English, Norwegian bokmål, Swedish and Finnish.
+1.	user documentation prepared for translation into North Saami
 
 Possible translation costs of user documentation and installer interface languages should be specified in the tender. The Divvun TTS project will reserve the right to do the translation itself, or in cooperation with the selected company.
 
 ## MacOS X
 
 The exact list of deliverables for MacOS X is:
-#	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MacOS X 10.4 and newer.
-#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
-##	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
+1.	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MacOS X 10.4 and newer.
+1.	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
+    1.	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
     1.  The installer package shall be built using Apple's own installer system
-#	user documentation in English, Norwegian bokmål, Swedish and Finnish. 
-#	user documentation prepared for translation into North Saami
+1.	user documentation in English, Norwegian bokmål, Swedish and Finnish. 
+1.	user documentation prepared for translation into North Saami
 
 Possible translation costs of user documentation and installer interface languages should be specified in the tender. The Divvun TTS project will reserve the right to do the translation itself, or in cooperation with the selected company.
 
@@ -129,8 +129,8 @@ There are a couple of downsides to using the preprocessor of the tenderers. It m
 
 The alternative solution would be to base the preprocessor on one or both of the following technologies:
 
-* morphological analysis and generation using HFST (http://hfst.sf.net/)
-* disambiguation and syntactic analysis using VislCG3 (http://visl.sdu.dk/)
+* morphological analysis and generation using [HFST](https://github.com/hfst/)
+* disambiguation and syntactic analysis using [VislCG3](https://visl.sdu.dk/cg3.html)
 
 Both technologies are open source, and both are also available in library versions that can easily be integrated into other systems.
 
