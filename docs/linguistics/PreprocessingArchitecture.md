@@ -20,7 +20,7 @@ The basic architecture of the preprocessing can be illustrated with the followin
 In the regular processing of text we have the following pipeline:
 
 ```
-text -> preprocess.pl -> morph. analysis (hfst/xerox) -> lookup2cg.pl -> disamb.
+text -> preprocess.pl -> morph. analysis -> lookup2cg.pl -> disamb.
 ```
 
 Now, because we can't rely on the availability of Perl, we can't use `preprocess.pl` nor `lookup2cg.pl`. Instead we need something based on `hfst-proc`. This entails a couple of things to be done:
