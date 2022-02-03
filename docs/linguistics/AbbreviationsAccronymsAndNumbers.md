@@ -200,7 +200,7 @@ Grouping is loosely based on expansion.
 
 
 ## Ordinals
-* 2. máilmmisoađi áiggi
+* 2\. máilmmisoađi áiggi
 * Jus miessemánu 20. beaivve loddegođii
 * sápmelaččain ledje bohccot 9. jahkečuođis
 * Ohcejoga gielda ii leat dán váidaga váldán vuhtii go váidališgođii suoidnemánu 28. beaivvi
@@ -211,7 +211,7 @@ Grouping is loosely based on expansion.
 * Dán dilálašvuhtii heive almmustahttit Nuorttanaste čállosa skábmamánu 15. beaivve 1903
 * Sámi álbmotbeaivi, guovvamánu 6.beaivvi, lea vuosttaš riikkačoahkkima muitun.
 * ON-beaivi ávvuduvvo golggotmánu 24. beaivvi.
-* 7. luohká rájes besset oahppit ieža válljet. 
+* 7\. luohká rájes besset oahppit ieža válljet. 
 * eai dárbbaš oahppat nuppi dárogiel suopmana 8. ja 9. luohkás
 * Dat lei gárvvis miessemánu 17.b
 * Dát prinsihppa lea mearriduvvon mánáidkonvenšuvnnas ja mánáidlágas cuoŋumánu 8. b. 1981 nr.7. 
