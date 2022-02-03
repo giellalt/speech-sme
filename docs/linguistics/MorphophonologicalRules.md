@@ -40,6 +40,7 @@ The rest are all allegro shortening environments, and this shortening should blo
 While long and short clusters are differentiated in orthography, long geminates are written with two letters, exactly like short geminates:
 
 |  orthographic    |   phonological
+| ---------------- | --------------
 |  Guossi.nom.sg   |    /kuos:sii/
 |  Guossi.acc.sg   |    /kuossii/
 |  guossa.nom.sg   |    /kuossa/
@@ -49,22 +50,18 @@ Today we only have QIII geminates when primary lengthening applies. QIII and QII
 Possible tags:
 
 - Stem class: contracted verbs are always QIII: 
-besset.inf: /pes:seht/ vs besset.1pl.present: /peesseht/ - beassat
-This means verbs with-e, -o or -á in the latus.
-Note that this means only when the centre is a geminate. Words like *málet* are obviously QI.
-
+    - *besset.inf*: `/pes:seht/` vs *besset.1pl.present*: `/peesseht/` - *beassat*
+  This means verbs with-e, -o or -á in the latus.
+  Note that this means only when the centre is a geminate. Words like *málet* are obviously QI.
 - Passive formation: o-passives are always QIII
 borrot.inf: /por:roht/ vs borrot.1pl.imp: /porroht/
 gullot. inf /kul:loht/ vs gullot.1pl.imp: /kulloht/
 borrojuvvot: /por:rojuv:voht/
 This is just a special case of the stem class rule.
-
 - Present participle: Present participles are always QIII
 borri.PrsPrc: /por:rii/
-
 - Imperative: 1du and 2du are always QIII: borru: /por:ruu/ borri: /por:rii/
-
--Contracted nouns, QIII everywhere, except nominative singular and essive:
+- Contracted nouns, QIII everywhere, except nominative singular and essive:
 sullo /sul:lo/.
 
 Problems: Nouns and verbs with QIII strong grade, such as *vuoššat* and *golli*
