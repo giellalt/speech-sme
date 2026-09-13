@@ -1,13 +1,6 @@
-remote_theme: giellalt/jekyll-theme-giellalt
+theme: jekyll-theme-giellalt
 title: North Sámi Text-to-Speech
 description: Speech technology resources for the North Sámi language
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jemoji
-  - jekyll-optional-front-matter
 
 defaults:
   - scope: { path: "" }
